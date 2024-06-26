@@ -162,9 +162,9 @@ horizontal_alignment = 1
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Labels/Strength"]
 
 [node name="Story" type="Label" parent="Labels"]
-offset_left = 52.0
+offset_left = 73.0
 offset_top = 682.0
-offset_right = 575.0
+offset_right = 596.0
 offset_bottom = 776.0
 theme_override_font_sizes/font_size = 19
 text = "Resimdeki yaratık seninle savaşmak istiyor. 

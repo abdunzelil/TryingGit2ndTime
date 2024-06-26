@@ -1,4 +1,4 @@
-
+# Not changed much
 # File: MainScene.gd
 extends Node2D
 var Card = preload("res://Scripts/card.gd")
@@ -329,5 +329,6 @@ func update_score_display():
 	$Labels/Strength.text = str(scores["Strength"])
 	
 	
-
+func this_function_does_nothing():
+	pass
 
